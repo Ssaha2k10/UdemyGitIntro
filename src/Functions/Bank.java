@@ -9,7 +9,7 @@ public class Bank {
 	private static final String routingnumber= "567889";
 	
 	Bank(){
-		System.out.println("Account Created");
+		System.out.println("New Account Created");
 	}
 	
 	Bank(String accountType){
